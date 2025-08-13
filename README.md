@@ -11,3 +11,4 @@ The main focus was learning:
 - The flood fill algorithm works well.
 - The overall game logic is incomplete and contains bugs.
 - Development was not continued, as the project’s goal was to practice specific concepts rather than produce a finished game.
+- The game is not heavily documented
